@@ -6,6 +6,7 @@
 //  Copyright © 2020 Apple Developer Academy. All rights reserved.
 //
 
+// use swiftui for the update technology
 import UIKit
 
 class ViewController: UIViewController {
